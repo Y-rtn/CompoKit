@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[91],{91:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});var r=n(318),a=n.n(r),u=n(281);const c=function(e){var t=e.label;return a().createElement(u.Button,{type:"primary"},t)}}}]);
